@@ -1,0 +1,27 @@
+{
+  "name": "cut-the-mustard",
+  "version": "0.0.0",
+  "description": "Checking your JS environment is up to scratch",
+  "main": "cut-the-mustard.js",
+  "scripts": {
+    "test": "node test.js && echo 'Tests Passed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrowdHailer/cut-the-mustard"
+  },
+  "keywords": [
+    "browser",
+    "compatibility",
+    "enhancement",
+    "modern",
+    "localStorage",
+    "querySelector",
+    "addEventListener"
+  ],
+  "author": "Peter Saxton",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/CrowdHailer/cut-the-mustard/issues"
+  }
+}
