@@ -1,6 +1,6 @@
 {
   "name": "cut-the-mustard",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Checking your JS environment is up to scratch",
   "main": "cut-the-mustard.js",
   "scripts": {
