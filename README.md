@@ -38,3 +38,7 @@ if (basicTest(window)) {
   // All good
 }
 ```
+
+## Documentation
+
+Check the source for conditions of each level or refer to the [article](https://justmarkup.com/log/2015/02/26/cut-the-mustard-revisited/)
